@@ -1,0 +1,23 @@
+body {
+    padding: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card-box {
+    margin: 50px;
+
+}
+
+.card-title {
+    font-weight: bold;
+    border-bottom: 1px solid var(--bs-border-color-translucent);
+}
+
+
+.card-subtitle {
+
+        border: 1px solid rgba(255, 0, 0, 0.247);
+        border-radius: 3px;
+
+
+}
